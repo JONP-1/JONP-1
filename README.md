@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Header](./JONP-1/github-header.image.png)
+![Header](./JONP-1/github-header-image.png)
 <!--
 **JONP-1/JONP-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
