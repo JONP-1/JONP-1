@@ -1,5 +1,10 @@
 ![Header](./github-header-image.png)
 ### Hi there 👋
+<h3 align="left">Languages and Tools:</h3>
+
+<img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40"/>
+
+
 <!--
 **JONP-1/JONP-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
