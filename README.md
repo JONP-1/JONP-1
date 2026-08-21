@@ -1,7 +1,11 @@
-![Header](./github-header-image.png)
-<h1 align="center">Hi 👋, I'm JONP-1</h1>
-<h3 align="center">A developer.</h3>
-<h3 align="left">Languages and Tools:</h3>
+<div align="center">
+
+<img src="./github-header-image.png" alt="Header">
+
+<h1>Hi 👋, I'm JONP-1</h1>
+<h3>A developer.</h3>
+
+</div>
 <div style="display:flex">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
