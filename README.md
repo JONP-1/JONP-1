@@ -13,7 +13,7 @@
   
 </div>
 <br>
-- 🌱 I’m currently learning Python and NestJS.
+- 🌱 I’m currently learning Java and Python.
 <br><br>
 <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="JONP-1" />
 
