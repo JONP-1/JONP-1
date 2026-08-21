@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm JONP-1</h1>
-<h3 align="center">A passionate full stack developer.</h3>
+<h3 align="center">A developer.</h3>
 <h3 align="left">Languages and Tools:</h3>
 <div style="display:flex">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
