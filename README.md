@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./github-header-image.png" alt="Header">
+<img src="./header_26.jpg" alt="Header">
 
 <h1>Hi 👋, I'm JONP-1</h1>
 <h3>A developer.</h3>
@@ -11,7 +11,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="ionic" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   
