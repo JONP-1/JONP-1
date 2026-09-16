@@ -23,7 +23,7 @@
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; </p>
 
 ## 📊 Estadísticas de GitHub
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=JONP-1&show_icons=true&theme=default&hide_border=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JONP-1&layout=compact&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=JONP-1&hide_border=true" /> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=JONP-1&hide_border=true" /> </p>
 
 
 <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="JONP-1" />
