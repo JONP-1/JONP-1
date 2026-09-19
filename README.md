@@ -25,7 +25,7 @@
 ## 📊 Estadísticas de GitHub
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=JONP-1&hide_border=true" /> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JONP-1&layout=compact&theme=radical)](https://github.com/TU_USUARIO_DE_GITHUB/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JONP-1&layout=compact&theme=radical)](https://github.com/JONP-1/github-readme-stats)
 
 
 <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="JONP-1" />
