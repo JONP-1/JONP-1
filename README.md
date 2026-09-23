@@ -25,6 +25,4 @@
 ## 📊 Estadísticas de GitHub
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=JONP-1&hide_border=true" /> </p>
 
-![Top Langs](https://tu-proyecto.vercel.app/api/top-langs/?username=JONP-1&layout=compact&theme=dracula&count_private=true)
-
 <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="JONP-1" />
